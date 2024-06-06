@@ -1,7 +1,7 @@
  #include <stdio.h>
  int main()
  {
-    system("color 14");
+    system("color 1F");
      int n;
      scanf("%d",&n);
      for(int row=1;row<=n;row++)

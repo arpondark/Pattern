@@ -11,7 +11,7 @@ int main()
             printf("%d", j);// Print numbers in increasing order
         }
       
-        for (int j = 1; j <= 2 * (n - i)-1; j++) {
+        for (int j = 1; j < 2 * (n - i); j++) {
             printf("_");
         }
         
